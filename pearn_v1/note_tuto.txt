@@ -1,0 +1,29 @@
+video suivie: https://www.youtube.com/watch?v=ldYcgPKEZC8&t=93s&ab_channel=freeCodeCamp.org
+
+Commande executée:
+ mkdir server
+ cd server
+ npm init
+ npm i express pg cors
+ npm fund
+ touch index.js
+
+Ca remplis index.js
+ (j ai installer nodemon en global    $ npm install -g nodemon)
+ (j ai installer cors en global    $ npm i cors)
+
+ nodemon index
+
+cd C:\Program Files\PostgreSQL\15\bin
+psql -U Postgres 
+password a rentrer tmtc
+puis ca copie database.sql
+\c pern_v1
+
+
+npm i pg pour installer pg.
+
+
+
+npx create-react-app client
+
